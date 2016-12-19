@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qrcode_camera_local_photos.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\src\\main\\res\\drawable-xhdpi\\qrcode_camera_local_photos.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete_24dp.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_delete_24dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_mic_off.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mic_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qrcode_camera_flashlight.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\src\\main\\res\\drawable-xhdpi\\qrcode_camera_flashlight.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qrcode_camera_back_img.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\src\\main\\res\\drawable-xhdpi\\qrcode_camera_back_img.png"
+    }
+]

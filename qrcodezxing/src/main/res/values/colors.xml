@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="qrcode_etText">#000000</color>
+    <color name="qrcode_etHint">#a1a0a0</color>
+    <color name="qrcode_tvText">#2B2B2B</color>
+    <color name="qrcode_bg">#efeceb</color>
+    <color name="qrcode_result_view">#b0000000</color>
+    <color name="qrcode_viewfinder_mask">#60000000</color>
+    <color name="qrcode_possible_result_points">#c0ffff00</color>
+</resources>

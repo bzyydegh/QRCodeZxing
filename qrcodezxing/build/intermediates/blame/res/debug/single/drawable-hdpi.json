@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qrcode_camera_flashlight.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\src\\main\\res\\drawable-hdpi\\qrcode_camera_flashlight.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green_pressed.9.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\src\\main\\res\\drawable-hdpi\\btn_green_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qrcode_camera_local_photos.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\src\\main\\res\\drawable-hdpi\\qrcode_camera_local_photos.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qrcode_camera_back_img.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\src\\main\\res\\drawable-hdpi\\qrcode_camera_back_img.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green_normal.9.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\src\\main\\res\\drawable-hdpi\\btn_green_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_mic_off.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mic_off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green_focused.9.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\src\\main\\res\\drawable-hdpi\\btn_green_focused.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete_24dp.png",
+        "source": "F:\\AndroidStudioProject\\FulongNews\\qrcodezxing\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete_24dp.png"
+    }
+]

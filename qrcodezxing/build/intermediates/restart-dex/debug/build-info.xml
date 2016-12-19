@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="147295919170237"
+    token="-8075555100437196011"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3477" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2751" />
+    <task
+        name="verifier"
+        duration="943" />
+
+    <artifact
+        location="F:\AndroidStudioProject\FulongNews\qrcodezxing\build\outputs\apk\qrcodezxing-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="147295919170237"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\AndroidStudioProject\FulongNews\qrcodezxing\build\outputs\apk\qrcodezxing-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
