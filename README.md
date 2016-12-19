@@ -1,6 +1,6 @@
 # QRCodeZxing
 基于zxing框架实现二维码扫描和生成
-# 添加权限
+## 添加权限
     <!-- Android 6.0 运行时权限分为：危险权限和常规权限 -->
     <!--危险权限-->
     <uses-permission android:name="android.permission.CAMERA"/>
