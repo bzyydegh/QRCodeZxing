@@ -11,4 +11,7 @@
     <uses-permission android:name="android.permission.VIBRATE"/>
     
 ## 更新日志
-1.解决Android 6.0以上不能保存二维码图片和扫描二维码
+1. 解决Android 6.0以上不能保存二维码图片和扫描二维码
+
+## 截图 
+![screenshot](https://github.com/bzyydegh/QRCodeZxing/blob/master/qrcodezxing/Screenshot/1.png)
